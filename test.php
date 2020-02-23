@@ -4,6 +4,8 @@
 // $username = 'root';  // MySQLのユーザ名
 // $passwd   = 'shoota';    // MySQLのパスワード
 // $dbname   = 'codecamp10436';    // データベース名
+
+
 $host = 'codecamp_10436.lesson5.codecamp.jp';
 $username = "codecamp10436";
 $passwd = 'YAMOMEJC';
